@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "HTAB Metadata Addin", "HTAB Metadata Addin\HTAB Metadata Addin.vbproj", "{A6D779F9-C3AB-4FC8-8022-84CF0D59E38F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A6D779F9-C3AB-4FC8-8022-84CF0D59E38F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A6D779F9-C3AB-4FC8-8022-84CF0D59E38F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A6D779F9-C3AB-4FC8-8022-84CF0D59E38F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A6D779F9-C3AB-4FC8-8022-84CF0D59E38F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
